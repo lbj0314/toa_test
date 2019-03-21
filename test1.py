@@ -10,3 +10,5 @@ for j in range(1,100):
 print(b)
 
 aa=1
+bb=2
+
