@@ -9,3 +9,4 @@ for j in range(1,100):
         b += j
 print(b)
 
+aa=1
